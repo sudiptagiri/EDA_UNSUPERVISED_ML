@@ -1,7 +1,7 @@
 # EDA_UNSUPERVISED_ML
 Given is the ‘Portugal Bank Marketing’ dataset Performing EDA, primary analysis of several categorical features reveals, Performing the pre-processing tasks, Building Unsupervised Learning models, Tabulate the performance metrics of the model,with the help of K means clusturing
 
-Given the ‘credit_card’ dataset, below is the data definition:
+Below is the data definition:
 1) CUSTID: Identification of Credit Card holder (Categorical)
 2) BALANCE: Balance amount left in their account to make purchases
 3) BALANCEFREQUENCY: How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
